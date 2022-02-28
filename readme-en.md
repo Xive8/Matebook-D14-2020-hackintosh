@@ -53,7 +53,11 @@ Please donate with paypal a ske1996
 ## Thanks：
 
 - [@intel](https://www.intel.com/content/www/us/en/homepage.html) produce cpu for us
+  
+  
 -@ske1996 https://github.com/ske1996
+  
+  
 - [@apple](https://www.apple.com/) created macos  
  
 - [@zxystd](https://github.com/OpenIntelWireless/itlwm) created kexts of wifi and bluetooth  
