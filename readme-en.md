@@ -1,4 +1,4 @@
-# Matebook-D15-2020-OpenCore
+ONLY D15 INTEL
 
   
 
@@ -55,7 +55,7 @@ Please donate with paypal a ske1996
 - [@intel](https://www.intel.com/content/www/us/en/homepage.html) produce cpu for us
   
   
--@ske1996 https://github.com/ske1996
+- @ske1996 https://github.com/ske1996
   
   
 - [@apple](https://www.apple.com/) created macos  
